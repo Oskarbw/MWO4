@@ -1,0 +1,14 @@
+C:\Users\userl\source\repos\MWO4\bin\Debug\net6.0\MWO4.exe
+C:\Users\userl\source\repos\MWO4\bin\Debug\net6.0\MWO4.deps.json
+C:\Users\userl\source\repos\MWO4\bin\Debug\net6.0\MWO4.runtimeconfig.json
+C:\Users\userl\source\repos\MWO4\bin\Debug\net6.0\MWO4.dll
+C:\Users\userl\source\repos\MWO4\bin\Debug\net6.0\MWO4.pdb
+C:\Users\userl\source\repos\MWO4\obj\Debug\net6.0\MWO4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userl\source\repos\MWO4\obj\Debug\net6.0\MWO4.AssemblyInfoInputs.cache
+C:\Users\userl\source\repos\MWO4\obj\Debug\net6.0\MWO4.AssemblyInfo.cs
+C:\Users\userl\source\repos\MWO4\obj\Debug\net6.0\MWO4.csproj.CoreCompileInputs.cache
+C:\Users\userl\source\repos\MWO4\obj\Debug\net6.0\MWO4.dll
+C:\Users\userl\source\repos\MWO4\obj\Debug\net6.0\refint\MWO4.dll
+C:\Users\userl\source\repos\MWO4\obj\Debug\net6.0\MWO4.pdb
+C:\Users\userl\source\repos\MWO4\obj\Debug\net6.0\MWO4.genruntimeconfig.cache
+C:\Users\userl\source\repos\MWO4\obj\Debug\net6.0\ref\MWO4.dll
