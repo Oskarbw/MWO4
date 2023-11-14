@@ -80,7 +80,7 @@ jobs:
       env:
         Configuration: ${{ matrix.configuration }}
 
-  deploy-dev:
+  deploy-prod:
     runs-on: windows-latest
     steps:
     - name: Upload a Build Artifact
@@ -88,6 +88,13 @@ jobs:
       with:
         name: mwo-artifact
         path: ./bin/Release/netcoreapp6.0
+    - name: Upload a Build Artifact
+      uses: actions/upload-artifact@v3.1.3
+      with:
+        name: mwo-artifact
+        path: ./bin/Release/netcoreapp6.0
+
+        
 
         
 
